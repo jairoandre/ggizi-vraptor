@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ggizi">
+    <output-path>$PROJECT_DIR$/out/artifacts/ggizi</output-path>
+    <root id="archive" name="ggizi.war" />
+  </artifact>
+</component>

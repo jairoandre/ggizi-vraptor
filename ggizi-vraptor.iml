@@ -21,7 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/classes" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="riot-api-java" level="project" />
     <orderEntry type="library" name="Maven: br.com.caelum:vraptor:4.0.0-RC1" level="project" />
